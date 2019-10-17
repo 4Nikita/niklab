@@ -1,0 +1,46 @@
+@media only screen and (max-width: 992px) {
+    .korobka  {
+        width: 750px;
+    }
+    .header {
+        background: #c6c3cc;
+    }
+    .topmenu {
+        background: #f2fffe;
+    }
+    .sideLeft {
+        background: #edf1ff;
+
+    }
+    .content {
+        background: #f0f1ef;
+        width: 750px;
+        height: 25%;
+    }
+    .links {
+        width: 750px;
+        background: #9ea424;
+        height: 250px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .korobka  {
+        width: 320px;
+    }
+    .header {
+        background: #3dfff2;
+    }
+    .topmenu {
+        background: #328e8d;
+    }
+    .sideLeft {
+        background: #edf1ff;
+    }
+    .content {
+        background: #f2f4f2;
+    }
+    .links {
+        background: #9ea424;
+        width: 250px;
+    }
+}
