@@ -1,0 +1,58 @@
+{
+  transition: all .2s;
+}
+.korobka {
+width: 940px;
+margin: 50px auto;
+}
+body {
+  background-color:#000;
+  background: url(https://takiedela.ru/wp-content/uploads/2016/04/004_Tula_Chernobyl_AB_06.jpg);
+}
+.header {
+background: #c6c3cc;
+width: 100%;
+border-radius: 50px;
+text-align: center;
+}
+.topmenu {
+background: #f2fffe;
+width: 100%;
+margin-top: 5px;
+border-radius: 5px;
+text-align: center;
+}
+.content {
+background: #f2fffe;
+width: 49%;
+margin-top: 5px;
+border-radius: 5px;
+float: right;
+text-align: center;
+}
+.sideleft {
+background: #edf1ff;
+width: 49%;
+margin-top: 5px;
+float: left;
+text-align: center;
+padding: 1px 0;
+}
+.bar {
+    background: #b7e0df;
+    border-radius: 5px;
+    border: 1px solid #129d52;
+    margin: 3px auto;
+    width: 80%;
+    height: 200px;
+    text-align: center;
+}
+.links {
+  background: #9ea424;
+  width: 49%;
+  margin-top: 20px;
+  border-radius: 5px;
+  height: 180px;
+  float: left;
+  text-align: center;
+}
